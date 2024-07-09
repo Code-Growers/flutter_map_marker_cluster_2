@@ -2,19 +2,19 @@ import 'dart:math';
 
 import 'package:flutter/material.dart';
 import 'package:flutter_map/flutter_map.dart';
-import 'package:flutter_map_marker_cluster/flutter_map_marker_cluster.dart';
-import 'package:flutter_map_marker_cluster/src/cluster_manager.dart';
-import 'package:flutter_map_marker_cluster/src/cluster_widget.dart';
-import 'package:flutter_map_marker_cluster/src/core/quick_hull.dart';
-import 'package:flutter_map_marker_cluster/src/core/spiderfy.dart';
-import 'package:flutter_map_marker_cluster/src/fade.dart';
-import 'package:flutter_map_marker_cluster/src/map_calculator.dart';
-import 'package:flutter_map_marker_cluster/src/map_widget.dart';
-import 'package:flutter_map_marker_cluster/src/marker_widget.dart';
-import 'package:flutter_map_marker_cluster/src/node/marker_node.dart';
-import 'package:flutter_map_marker_cluster/src/node/marker_or_cluster_node.dart';
-import 'package:flutter_map_marker_cluster/src/rotate.dart';
-import 'package:flutter_map_marker_cluster/src/translate.dart';
+import 'package:flutter_map_marker_cluster_2/flutter_map_marker_cluster_2.dart';
+import 'package:flutter_map_marker_cluster_2/src/cluster_manager.dart';
+import 'package:flutter_map_marker_cluster_2/src/cluster_widget.dart';
+import 'package:flutter_map_marker_cluster_2/src/core/quick_hull.dart';
+import 'package:flutter_map_marker_cluster_2/src/core/spiderfy.dart';
+import 'package:flutter_map_marker_cluster_2/src/fade.dart';
+import 'package:flutter_map_marker_cluster_2/src/map_calculator.dart';
+import 'package:flutter_map_marker_cluster_2/src/map_widget.dart';
+import 'package:flutter_map_marker_cluster_2/src/marker_widget.dart';
+import 'package:flutter_map_marker_cluster_2/src/node/marker_node.dart';
+import 'package:flutter_map_marker_cluster_2/src/node/marker_or_cluster_node.dart';
+import 'package:flutter_map_marker_cluster_2/src/rotate.dart';
+import 'package:flutter_map_marker_cluster_2/src/translate.dart';
 import 'package:latlong2/latlong.dart';
 
 class MarkerClusterLayer extends StatefulWidget {

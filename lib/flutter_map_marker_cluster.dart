@@ -1,4 +1,4 @@
-library flutter_map_marker_cluster;
+library flutter_map_marker_cluster_2;
 
 export 'src/marker_cluster_layer.dart';
 export 'src/marker_cluster_layer_widget.dart';

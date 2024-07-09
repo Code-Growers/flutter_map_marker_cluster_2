@@ -1,25 +1,25 @@
 # Flutter Map Marker Cluster
 
-[![pub package](https://img.shields.io/pub/v/flutter_map_marker_cluster.svg)](https://pub.dartlang.org/packages/flutter_map_marker_cluster) ![travis](https://api.travis-ci.com/lpongetti/flutter_map_marker_cluster.svg?branch=master)
+[![pub package](https://img.shields.io/pub/v/flutter_map_marker_cluster_2.svg)](https://pub.dartlang.org/packages/flutter_map_marker_cluster_2) ![travis](https://api.travis-ci.com/lpongetti/flutter_map_marker_cluster_2.svg?branch=master)
 
 A Dart implementation of Leaflet.markercluster for Flutter apps.
 This is a plugin for [flutter_map](https://github.com/johnpryan/flutter_map) package
 
 <div style="text-align: center"><table><tr>
   <td style="text-align: center">
-  <a href="https://github.com/lpongetti/flutter_map_marker_cluster/blob/master/example.gif">
-    <img src="https://github.com/lpongetti/flutter_map_marker_cluster/blob/master/example.gif" width="200"/></a>
+  <a href="https://github.com/lpongetti/flutter_map_marker_cluster_2/blob/master/example.gif">
+    <img src="https://github.com/lpongetti/flutter_map_marker_cluster_2/blob/master/example.gif" width="200"/></a>
 </td>
 </tr></table></div>
 
 ## Usage
 
-Add flutter_map and  flutter_map_marker_cluster to your pubspec:
+Add flutter_map and  flutter_map_marker_cluster_2 to your pubspec:
 
 ```yaml
 dependencies:
   flutter_map: any
-  flutter_map_marker_cluster: any # or the latest version on Pub
+  flutter_map_marker_cluster_2: any # or the latest version on Pub
 ```
 
 [flutter_map](https://github.com/fleaflet/flutter_map/releases) package removed old layering system with v3.0.0 use `MarkerClusterLayerWidget` as member of `children` parameter list and configure it using `MarkerClusterLayerOptions`.
