@@ -1,4 +1,4 @@
-## [1.0.2] - 09/05/2024
+## [1.0.3] - 09/05/2024
 
 - Migrate to flutter_map v7
 - Migrate to flutter_map_marker_popup v7
