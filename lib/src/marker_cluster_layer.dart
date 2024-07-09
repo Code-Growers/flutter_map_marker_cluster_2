@@ -2,7 +2,7 @@ import 'dart:math';
 
 import 'package:flutter/material.dart';
 import 'package:flutter_map/flutter_map.dart';
-import 'package:flutter_map_marker_cluster_2/flutter_map_marker_cluster_2.dart';
+import 'package:flutter_map_marker_cluster_2/flutter_map_marker_cluster.dart';
 import 'package:flutter_map_marker_cluster_2/src/cluster_manager.dart';
 import 'package:flutter_map_marker_cluster_2/src/cluster_widget.dart';
 import 'package:flutter_map_marker_cluster_2/src/core/quick_hull.dart';
