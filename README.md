@@ -1,14 +1,16 @@
 # Flutter Map Marker Cluster
 
-[![pub package](https://img.shields.io/pub/v/flutter_map_marker_cluster_2.svg)](https://pub.dartlang.org/packages/flutter_map_marker_cluster_2) ![travis](https://api.travis-ci.com/lpongetti/flutter_map_marker_cluster_2.svg?branch=master)
+[![pub package](https://img.shields.io/pub/v/flutter_map_marker_cluster_2.svg)](https://pub.dartlang.org/packages/flutter_map_marker_cluster_2)
+
+This is a for of [flutter_map_marker_cluster](https://github.com/lpongetti/flutter_map_marker_cluster)
 
 A Dart implementation of Leaflet.markercluster for Flutter apps.
 This is a plugin for [flutter_map](https://github.com/johnpryan/flutter_map) package
 
 <div style="text-align: center"><table><tr>
   <td style="text-align: center">
-  <a href="https://github.com/lpongetti/flutter_map_marker_cluster_2/blob/master/example.gif">
-    <img src="https://github.com/lpongetti/flutter_map_marker_cluster_2/blob/master/example.gif" width="200"/></a>
+  <a href="https://github.com/lpongetti/flutter_map_marker_cluster/blob/master/example.gif">
+    <img src="https://github.com/lpongetti/flutter_map_marker_cluster/blob/master/example.gif" width="200"/></a>
 </td>
 </tr></table></div>
 
@@ -76,9 +78,6 @@ See the `example/` folder for a working example app.
 
 ## Supporting Me
 
-A donation through my Ko-Fi page would be infinitly appriciated:
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/lorenzopongetti)
-
-but, if you can't or won't, a star on GitHub and a like on pub.dev would also go a long way!
+A star on GitHub and a like on pub.dev would also go a long way!
 
 Every donation gives me fuel to continue my open-source projects and lets me know that I'm doing a good job.
