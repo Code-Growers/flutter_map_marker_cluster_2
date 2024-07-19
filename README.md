@@ -2,7 +2,7 @@
 
 [![pub package](https://img.shields.io/pub/v/flutter_map_marker_cluster_2.svg)](https://pub.dartlang.org/packages/flutter_map_marker_cluster_2)
 
-This is a for of [flutter_map_marker_cluster](https://github.com/lpongetti/flutter_map_marker_cluster)
+This is a for of [flutter_map_marker_cluster](https://github.com/lpongetti/flutter_map_marker_cluster) but updated to flutter_map v7
 
 A Dart implementation of Leaflet.markercluster for Flutter apps.
 This is a plugin for [flutter_map](https://github.com/johnpryan/flutter_map) package
