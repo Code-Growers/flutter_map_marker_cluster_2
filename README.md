@@ -9,8 +9,8 @@ This is a plugin for [flutter_map](https://github.com/johnpryan/flutter_map) pac
 
 <div style="text-align: center"><table><tr>
   <td style="text-align: center">
-  <a href="https://github.com/lpongetti/flutter_map_marker_cluster/blob/master/example.gif">
-    <img src="https://github.com/lpongetti/flutter_map_marker_cluster/blob/master/example.gif" width="200"/></a>
+  <a href="https://github.com/PikPakPik/flutter_map_marker_cluster_2/blob/master/example.gif">
+    <img src="https://github.com/PikPakPik/flutter_map_marker_cluster_2/blob/master/example.gif" width="200"/></a>
 </td>
 </tr></table></div>
 
